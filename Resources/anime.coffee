@@ -1,0 +1,1 @@
+clearAnimation = Titanium.UI.createAnimation()

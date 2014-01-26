@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+provisioning_profiles/development/7A250989-2AB3-48BD-928C-B2824B474E7C/appid=*
+provisioning_profiles/development/7A250989-2AB3-48BD-928C-B2824B474E7C/name=iOS Team Provisioning Profile\: *
+provisioning_profiles/development/7A250989-2AB3-48BD-928C-B2824B474E7C/uuid=7A250989-2AB3-48BD-928C-B2824B474E7C
+provisioning_profiles/development/7DC96A59-982E-4E45-8C3A-EEA3B796710E/appid=com.cohalz.*
+provisioning_profiles/development/7DC96A59-982E-4E45-8C3A-EEA3B796710E/name=cohalz
+provisioning_profiles/development/7DC96A59-982E-4E45-8C3A-EEA3B796710E/uuid=7DC96A59-982E-4E45-8C3A-EEA3B796710E
+provisioning_profiles/development/E9C4FC7A-44D1-4C03-A52F-10BB7835FE3E/appid=com.cohalz.*
+provisioning_profiles/development/E9C4FC7A-44D1-4C03-A52F-10BB7835FE3E/name=iOS Team Provisioning Profile\: com.cohalz.*
+provisioning_profiles/development/E9C4FC7A-44D1-4C03-A52F-10BB7835FE3E/uuid=E9C4FC7A-44D1-4C03-A52F-10BB7835FE3E
